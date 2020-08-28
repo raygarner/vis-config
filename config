@@ -46,7 +46,7 @@ visualizer.fps=60
 #visualizer.spectrum.bar.spacing=1
 
 ##Available smoothing options are monstercat, sgs, none.
-visualizer.spectrum.smoothing.mode=monstercat
+visualizer.spectrum.smoothing.mode=none
 
 ##This configures the falloff effect on the spectrum visualizer. Available falloff options are fill,top,none.
 ##Defaults to "fill"
